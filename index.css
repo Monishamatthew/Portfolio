@@ -1,0 +1,82 @@
+ html {
+  scroll-behavior: smooth;
+  padding: 40px;
+}
+ body{
+        /* background-image: url('rbg.png'); */
+        background-color: #efdfbb;
+    }
+img{
+    max-width: 100%;
+    height: auto;
+    margin-right: 50px;
+    border-radius: 50%;
+    
+    }
+p{
+    size: 1000px;
+    
+    }
+.i1{
+        color: #722f37;
+        font-size: 20px;
+        padding: 0px 60px 0px 30px;
+    }
+div{
+    size: 1000px;
+    }
+h1{
+        text-align-last: auto;
+        text-align: center;
+        font-size: 40px; 
+        color:#efdfbb;
+
+    }
+h2{
+        font-size: 35px; 
+        color:#5a4942;
+    }
+    h3{
+        font-size: 25px; 
+        color:#5a4942;
+    }
+nav{
+    display: flex;
+    gap: 30px;
+    background-color: #5a4942;
+    padding: 5px;
+    /* text-transform: capitalize; */
+    
+    
+}
+a{
+    color: #efdfbb;
+    text-decoration: none;
+    align-items: center;
+    padding-top: 50px;
+}
+#pro1{
+        color: #722f37;
+        font-size: 20px;
+        padding: 0px 70px 0px 40px;
+        
+    }
+button{
+        background-color:  #5a4942;
+        padding :10px 20px;
+        font-size: 25px; 
+        cursor: pointer;
+        color: #722f37;
+
+    }
+    #proj{
+            color:#efdfbb;
+    }
+    .probut{
+        color:#efdfbb;
+        background-color: #5a4942;
+        border-radius: 50px;
+        padding: 10px 60px 10px 60px;
+        align-items: center;
+        margin-left: 450px;
+    }
